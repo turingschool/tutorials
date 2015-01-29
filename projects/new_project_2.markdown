@@ -18,6 +18,6 @@ $ which ruby
 And javascript:
 
 ```js
-var something = 5;
+var something = 6;
 console.log('Hello, World!')
 ```
