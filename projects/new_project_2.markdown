@@ -14,3 +14,10 @@ And a terminal:
 $ ls -lA
 $ which ruby
 ```
+
+And javascript:
+
+```js
+var something = 5;
+console.log('Hello, World!')
+```
